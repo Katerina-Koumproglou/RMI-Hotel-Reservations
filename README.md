@@ -43,5 +43,5 @@ java HRClient cancel <hostname> <type> <number> <name>
 ```
 Replace `<hostname>` with `localhost if` testing locally.
 
-## Few examples:
+## A few examples:
 ![image](https://github.com/user-attachments/assets/272c9726-8c8d-479b-af12-87925d3ae46b)
